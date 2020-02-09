@@ -1,2 +1,4 @@
 # tick-tack-toe
-Tick Tack Toe
+To run, navigate the code subfolder in a terminal.
+
+Type the following: python play_ttt.py
